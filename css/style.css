@@ -86,7 +86,7 @@ a:hover, a.active{
         left: -100%;
         background: #2c3e50;
         text-align: center;
-        transition: .3s;
+        transition: .5s;
     }
     .navbar ul li{
         display: block;
@@ -102,7 +102,7 @@ a:hover, a.active{
     }
     .navbar ul.show{
         left: 0;
-        transition: .3s;
+        transition: .5s;
     }
 }
 @media screen and (max-width:330px){
